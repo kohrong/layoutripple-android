@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RippleEffect</string>
+    <string name="beer_name">Beer name</string>
+    <string name="beer_style">Beer style</string>
+</resources>
